@@ -1,1 +1,9 @@
 
+spring:
+  config:
+    import:
+    - classpath:/config/application-db.yml
+#  setting thymeleaf
+  thymeleaf:
+    prefix: classpath:/templates/
+    suffix: .html
