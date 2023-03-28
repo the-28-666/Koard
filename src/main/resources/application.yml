@@ -2,7 +2,7 @@
 spring:
   config:
     import:
-    - classpath:/config/application-db.yml
+    - classpath:/Auth/application-db.yml
 #  setting thymeleaf
   thymeleaf:
     prefix: classpath:/templates/

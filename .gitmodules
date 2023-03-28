@@ -1,0 +1,3 @@
+[submodule "src/main/resources/Auth"]
+	path = src/main/resources/Auth
+	url = https://github.com/leejk0924/Auth.git
